@@ -1,0 +1,13 @@
+name = "Nomifactory"
+author = "Hexasphere0"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e8628be9905bf22b7620ffd6216237fb0c29433d0f8118c7ca8e69877de30046"
+
+[versions]
+forge = "47.2.4"
+minecraft = "1.20.1"
